@@ -7,6 +7,7 @@
     "dist",
     "index.d.ts"
   ],
+  "repository": "https://github.com/stevekinney/bored-stream",
   "main": "./dist/index.umd.cjs",
   "module": "./dist/index.js",
   "types": "./index.d.ts",
