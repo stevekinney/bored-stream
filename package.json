@@ -33,7 +33,7 @@
     "@vitest/ui": "^0.32.4",
     "commitlint": "^17.6.6",
     "eslint": "^8.44.0",
-    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-prettier": "^9.0.0",
     "esno": "^0.16.3",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.3",
