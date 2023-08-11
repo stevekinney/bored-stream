@@ -1,7 +1,7 @@
 {
   "name": "bored-stream",
   "description": "Streams ideas for when you're bored.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "files": [
     "dist",
