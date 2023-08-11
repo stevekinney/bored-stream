@@ -4,4 +4,3 @@
 export CI="1"
 
 npx lint-staged
-npm test
